@@ -1,2 +1,1 @@
-# igo-yt
-IGo Youtube channel
+# IGo Youtube channel
