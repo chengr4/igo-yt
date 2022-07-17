@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-  background-color: darkslateblue;
+  background-color: darkgray;
   font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
